@@ -23,7 +23,7 @@
     [
       "@semantic-release/exec",
       {
-        "publishCmd": "cr upload --owner pavel-snyk --git-repo snyk-broker-helm --push --skip-existing --token $GH_TOKEN"
+        "publishCmd": "cr upload --owner pavel-snyk --git-repo snyk-broker-helm --generate-release-notes --push --skip-existing --token $GH_TOKEN"
       },
     ],
     [
