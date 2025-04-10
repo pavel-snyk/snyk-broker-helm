@@ -531,3 +531,5 @@ extraPodSpecsCr:
 ##### Openshift Specific Values #####
 # This is a boolean value that indicates whether the deployment is running on OpenShift or not. Default is set to false to disable security context adaptations for OpenShift.
 openshift: false
+
+### juhuhu, new release testing
